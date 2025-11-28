@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mahfuzaakter
-- 👀 I’m interested in programming,networking,web developing and web designing,data science and da analysic,machine learning
+- 👀 I’m interested in programming,networking,web developing and web designing,data science and data analysic,machine learning
 - 🌱 I’m currently learning  information and communication enginnering...
 - 💞️ I’m looking to collaborate on team
 - 📫 How to reach me via linkedin
