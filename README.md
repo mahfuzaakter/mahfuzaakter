@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mahfuzaakter
-- 👀 I’m interested in programming,networking,web developing and web designing,data science and data analysic,machine learning
-- 🌱 I’m currently learning  information and communication enginnering...
-- 💞️ I’m looking to collaborate on team
+- 👀 I’m interested in programming,networking,web developing and web designing,data science and data analysic,machine learning,Research work
+- 🌱 I've completed BSc in  information and communication enginnering...
+- 💞️ I’m looking to collaborate on team-work
 - 📫 How to reach me via linkedin
 
 <!---
